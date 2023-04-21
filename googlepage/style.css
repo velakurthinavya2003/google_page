@@ -1,0 +1,76 @@
+.first-anchor{
+    text-decoration: none;
+    color:black;
+    padding-left: 1000px;
+    font-size: 15px;
+    
+}
+.second-anchor{
+    text-decoration: none;
+    color:black;
+    padding-left: 20px;
+    font-size: 15px;
+}
+i{
+    padding-left: 20px;
+}
+.imagechange
+{
+   padding-top:  150px;
+   padding-left: 450px;
+   
+}
+
+.searchblock
+{
+    padding-left: 400px;
+    padding-top: 20px;
+    
+}
+.innerdiv
+{
+    position: relative;
+}
+.Searchbox
+{
+   border-radius: 50px;
+   padding:10px;
+   padding-left: 50px;
+   width:500px;
+   box-shadow: 2px 2px 2px 2px rgb(212, 211, 211);
+   position: absolute;
+   border: none;
+}
+.i{
+    position: absolute;
+    z-index: 2;
+    padding-top: 10px;
+    padding-left: 10px;
+
+    
+}
+.microphoneimage
+{
+    position: absolute;
+   left: 460px;
+   padding-top: 5px;
+}
+.contain
+{
+    padding-left:370px;
+    padding-top: 40px;
+    padding-right: 50px;
+}
+.innercontain
+{
+    display: flex;
+    
+}
+.image1
+{
+    border-radius: 100px;
+    border: none;
+    box-shadow: 2px 3px 2px 3px grey;
+    margin: 45px;
+    
+}
